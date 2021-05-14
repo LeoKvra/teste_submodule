@@ -1,0 +1,3 @@
+[submodule "teste_sdubmodule_item"]
+	path = teste_sdubmodule_item
+	url = https://github.com/LeoKvra/teste_sdubmodule_item.git

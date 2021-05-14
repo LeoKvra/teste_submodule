@@ -1,2 +1,4 @@
 /Teste/Teste/bin/*
 /Teste/Teste/obj/*
+/.ssh/id_rsa
+/.ssh/id_rsa.pub

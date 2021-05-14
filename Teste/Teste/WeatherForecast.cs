@@ -4,6 +4,8 @@ namespace Teste
 {
     public class WeatherForecast
     {
+        public string Random { get; set; }
+
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }

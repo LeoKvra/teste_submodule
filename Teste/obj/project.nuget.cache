@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "0CuNkr2zPIdVU25P5luAQwCyYs6QVASnegCFbm89tj06WPlPj0rTusAbG9tuuaJVtPjBLNdSgfZqpz2iEYqhGg==",
+  "success": false,
+  "projectFilePath": "C:\\Temp\\testegitsub\\Teste\\Teste\\Teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonardo Cavalcanti\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\Temp\\testegitsub\\teste_sdubmodule_item\\Submodulo\\Submodulo.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Temp\\testegitsub\\teste_sdubmodule_item\\Submodulo\\Submodulo.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
